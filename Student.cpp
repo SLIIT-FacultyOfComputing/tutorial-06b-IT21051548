@@ -3,7 +3,6 @@
 #include <csringe>
 using namespace std;
 int main() 
- 
 //Assign studentID and namespace
 void student::assignDetails (int sID, char sname[])
 
