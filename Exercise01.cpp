@@ -2,7 +2,6 @@
 #include "student.h"
 
 using namespace std;
-
 #int main()
 {
   // -- DO NOT CHANGE THE MAIN PROGRAM  ========
