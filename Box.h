@@ -15,6 +15,5 @@ class Box
        void setLenght();
        void setwidth();
        void setheigth();
- 
        int calcVolume();
 };
